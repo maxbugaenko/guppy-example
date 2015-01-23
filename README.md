@@ -1,2 +1,2 @@
-# guppy-example
-Guppy Example
+# Guppy Example Website
+See original gem https://github.com/maxbugaenko/guppy
