@@ -1,0 +1,21 @@
+@import "variables";
+@import "responsive";
+@import "general";
+@import "typography";
+@import "paddings";
+@import "layouts";
+@import "colors";
+@import "controls";
+@import "buttons";
+@import "form";
+@import "tabs";
+
+
+.logo {
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.reg {
+  font-weight: 300;
+}
