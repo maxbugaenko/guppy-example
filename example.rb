@@ -1,7 +1,6 @@
 require 'rubygems';
 require 'sinatra';
 require 'haml'
-require 'haml/helpers'
 require 'guppy'
 
 # as you see we just required guppy gem
